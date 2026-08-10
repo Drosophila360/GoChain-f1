@@ -1,0 +1,3 @@
+FundMeTest:testFund() (gas: 96414)
+FundMeTest:testFundFailsWithoutEnoughEth() (gas: 25167)
+FundMeTest:testFundUpdatesFundedDataStructure() (gas: 102679)

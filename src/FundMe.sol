@@ -9,10 +9,10 @@ import {PriceConverter} from "./PriceConverter.sol";
 error FundMe__NotOwner();
 
 /**
- * @title A sample Funding Contract
- * @author Patrick Collins
+ *@title A sample Funding Contract
+ * @author Kisavi De Muthama
  * @notice This contract is for creating a sample funding contract
- * @dev This implements price feeds as our library
+ * @dev Source: cyfrin updraft course. Thanks to Patrick Collins for the course
  */
 contract FundMe {
     // Type Declarations

@@ -1,4 +1,4 @@
-# GoChain-fi
+# GoChain-f1
 
 A Foundry-based smart contract project that implements a crowdfunding contract using Chainlink price feeds to convert ETH contributions into USD values.
 
